@@ -6,7 +6,6 @@ public class Start {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		Scanner in= new Scanner(System.in);
-		sy
 		
 		String name;
 		int age;
