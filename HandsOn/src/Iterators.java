@@ -1,6 +1,9 @@
 import java.util.Iterator;
 import java.util.LinkedList;
 
+class laps{
+	
+}
 
 public class Iterators {
 
