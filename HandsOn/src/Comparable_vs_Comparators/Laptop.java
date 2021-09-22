@@ -6,7 +6,8 @@ public class Laptop implements Comparable<Laptop> {
 	private String type;
 	private int ram;
 	private int price;
-
+	
+	//Constructor
 	public Laptop(String type, int ram, int price) {
 		super();
 		this.type = type;
